@@ -8,7 +8,7 @@
   <a href="https://space.bilibili.com/519875324">BILIBILI</a>
 </h5>
 <div align="center">
-    <img src="github-metrics.svg" width="80%">
+    <img src="github-metrics.svg" width="100%">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
