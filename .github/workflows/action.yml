@@ -9,10 +9,6 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -68,18 +64,11 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_pagespeed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://enderfga.cn
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://enderfga.cn/atom.xml
           plugin_stars: yes
           plugin_stars_limit: 4
