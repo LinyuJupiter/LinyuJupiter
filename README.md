@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Enderfga </h2>
+<h2 align="center">Hi 👋, I'm LinyuJupiter </h2>
 <h4 align="center">Nothing is true, everything is permitted. </h4>
 <h3 align="center">A CV Deep learner (with Ctrl)</h3>
 <h5 align="center">
