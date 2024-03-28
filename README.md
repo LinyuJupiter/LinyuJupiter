@@ -16,6 +16,7 @@
 <a href="https://www.kaggle.com/LinyuJupiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="30" /> </a>
 <a href="https://www.linkedin.com/in/linyujupiter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="30" /> </a>
 <a href="https://www.facebook.com/profile.php?id=61554376700209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="30" /> </a>
+<a href="https://leetcode.cn/u/linyujupiter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="30" /> </a>
 <a href="https://gitee.com/plume-rain-jupiter/" target="blank"><img align="center" src="https://avatar.gitee.com/uploads/1/1_oschina-org.png!avatar200?1524465517" alt="gitee" height="30" width="30" /> </a>
 </p>
 
