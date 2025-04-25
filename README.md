@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Linyu Jupiter </h2>
 <h4 align="center">May you seek common ground, and if not, may you also strive for diversity. </h4>
-<h3 align="center">A programming enthusiast</h3>
+<h3 align="center">A LLM and programming enthusiast</h3>
 <h5 align="center">
   <a href="mailto:liufx7@mail2.sysu.edu.cn">EMAIL</a>&emsp;•&emsp;
-  <a href="http://linyujupiter.icu:3003/">BLOG</a>&emsp;•&emsp;
+  <a href="http://134.175.123.166:3003/">BLOG</a>&emsp;•&emsp;
   <a href="https://linyujupiter.github.io/">HOMEPAGE</a>&emsp;•&emsp;
   <a href="https://space.bilibili.com/519875324">BILIBILI</a>
 </h5>
