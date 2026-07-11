@@ -1553,7 +1553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alleneee/skill-agent</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 11 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于 FastAPI 的生产级 AI Agent 框架，支持 100+ LLM 提供商、MCP 工具集成、多 Agent 协作、RAG 知识库和沙箱隔离执行</div>
@@ -1815,7 +1815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2026, 12:15:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jul 2026, 15:14:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
